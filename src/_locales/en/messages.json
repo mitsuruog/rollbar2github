@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "rollbar2github",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Chrome extension to transform a Rollbar item to Github issue",
+    "description": "The description of the application"
+  }
+}
